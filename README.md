@@ -6,9 +6,9 @@
 ## I'm a Student, Developer!!
 
 - 🔭 I have currently finished working on [chrome-extension]!(Translator)
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Selenium.
 - 👯 I’m currently working on web app where user can watch the trailer of recent movies.
-- 🥅 2020 Goals:Try to gather knowledge more than possible.
+- 🥅 2021 Goals:Try to gather knowledge more than possible.
 - ⚡ Fun fact: Other than programming I'm learning french.
 - 😎 My Motto: Tout est possible
 

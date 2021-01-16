@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=icancodealright.com&style=for-the-badge&url=https%3A%2F%2icancodealright.com)](icancodealright.com)
 
 
-## I'm a Student, Developer!!
+## I'm a Student, Java Developer
 
 - 🔭 I have currently finished working on [chrome-extension]!(Translator)
 - 🌱 I’m currently learning Selenium.

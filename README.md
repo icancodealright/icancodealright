@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayakrishnan aka-[icancodealright][website] 👋
 
-[![Website](https://img.shields.io/website?label=icancodealright.com&style=for-the-badge&url=https%3A%2F%2icancodealright.com)](icancodealright.com)
+[![Website](https://img.shields.io/website?label=icancodealright.com&style=for-the-badge&url=https://jayakrishnan.web.app/)](icancodealright.com)
 
 
 ## I'm a Student, Java Developer

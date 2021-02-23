@@ -1,4 +1,4 @@
-### Hi there, I'm Jayakrishnan aka-[icancodealright][website] 👋
+### Hi there, I'm Jayakrishnan aka-[icancodealright][https://jayakrishnan.web.app/] 👋
 
 [![Website](https://img.shields.io/website?label=icancodealright.com&style=for-the-badge&url=https://jayakrishnan.web.app/)](icancodealright.com)
 
